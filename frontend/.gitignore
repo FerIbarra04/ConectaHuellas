@@ -1,0 +1,34 @@
+# v0
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+.snowflake/
+.v0-trash/
+
+# Vercel
+.vercel/
+next.user-config.*
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Dependencias
+node_modules/
+**/node_modules/
+
+# Next.js
+.next/
+**/.next/
+
+# Archivos de compilación
+dist/
+coverage/
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

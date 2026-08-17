@@ -1,0 +1,26 @@
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Dependencias
+node_modules/
+**/node_modules/
+
+# Next.js
+.next/
+**/.next/
+
+# Vercel
+.vercel/
+
+# Build
+dist/
+coverage/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
